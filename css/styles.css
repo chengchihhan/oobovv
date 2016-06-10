@@ -1,4 +1,4 @@
-*{
+* {
   box-sizing: border-box;
 }
 
@@ -128,7 +128,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* movies & tv show */
-.top_movies, .top_shows {
+.top_movies,
+.top_shows {
   padding: 5em 0;
 }
 .top_movies header,
